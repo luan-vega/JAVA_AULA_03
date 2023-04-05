@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d0a96f-394e-422e-917a-b2fa4085f8c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AULA_03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXERCICIO_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXERCICIO_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EXERCICIO_06.java" afterDir="false" />
-    </list>
+    <list default="true" id="b0d0a96f-394e-422e-917a-b2fa4085f8c4" name="Changes" comment="Ex_04&#10;Ex_05&#10;Ex_06" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +39,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680720138705</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ex_04&#10;Ex_05&#10;Ex_06">
+      <created>1680720371962</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680720371962</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex_04&#10;Ex_05&#10;Ex_06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex_04&#10;Ex_05&#10;Ex_06" />
   </component>
 </project>
